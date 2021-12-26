@@ -285,7 +285,7 @@ footer {
         background-size: contain;
         background-repeat: no-repeat;
         background-position-y: 0;
-        height: 450px;
+        height: 500px;
     }
 
     .hero-wrapper {
@@ -298,12 +298,12 @@ footer {
         text-align: left;
         width: 51%;
         position: absolute;
-        top: 30%;
+        top: 34%;
         left: 6.5%;
     }
 
     .logo {
-        height: 28px;
+        height: 35px;
     }
 
     nav {
@@ -358,7 +358,7 @@ footer {
         position: absolute;
         bottom: 50%;
         left: 48%;
-        top: 20%;
+        top: 22%;
         padding: 0;
     }
 
@@ -370,7 +370,7 @@ footer {
         gap: 40px;
         align-items: center;
         align-content: space-around;
-        margin: 130px auto 100px;
+        margin: 150px auto 140px;
         text-align: center;
         max-width: 100%;
     }
@@ -479,13 +479,12 @@ footer {
     /* Footer */
     footer {
         background-color: var(--dark-cyan);
-        padding: 50px 20px;
+        padding: 0px 20px 20px;
         z-index: -1;
         color: var(--pale-cyan);
         font-family: 'Open Sans', sans-serif;
         position: relative;
-        top: calc(135px + 70px);
-        padding-bottom: 80px;
+        top: calc(135px + 60px);
     }
 
     .footer-logo {
@@ -496,7 +495,7 @@ footer {
     .contact-wrapper {
         display: flex;
         flex-direction: row;
-        padding-top: 10%;
+        padding-top: 14%;
         padding-left: 8.5%;
         font-weight: 400;
         
@@ -549,15 +548,16 @@ footer {
     .icons {
         position: relative;
         bottom: 310px;
-        left: 613px;
+        left: 604px;
         transform: scale(0.8);
     }
 
     .copyright {
         margin: 30px auto 0;
-        padding-bottom: 10px;
         font-size: 0.6rem;
         float: right;
         padding-right: 5%;
+        position: relative;
+        bottom: 50px;
     }
 }
