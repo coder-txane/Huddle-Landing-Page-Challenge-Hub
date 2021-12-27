@@ -25,7 +25,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](Resources/images/Huddle Landing Page - coder-txane - coder-txane.github.io.png)
+![A screenshot of the design](Resources/images/Huddle Landing Page - coder-txane - coder-txane.github.io.png)
 
 ### Links
 
